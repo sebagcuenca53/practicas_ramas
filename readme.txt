@@ -1,2 +1,2 @@
-proyecto de practica con git y ramas
+proyecto actualizado desde desarrollo
 Nueva funcionalidad en la rama desarrollo
